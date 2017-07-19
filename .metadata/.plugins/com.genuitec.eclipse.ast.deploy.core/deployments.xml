@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<deployments>
-  <deployment context-root="/TestWeb" deployment-path="D:/TomCat/apache-tomcat-7.0.56/apache-tomcat-7.0.56/webapps/TestWeb" project-name="TestWeb" server-id="tomcat7Server" state="DEPLOYED" type="WEB"/>
-</deployments>
