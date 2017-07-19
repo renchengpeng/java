@@ -1,0 +1,5 @@
+ENDORSED_DIRS="D\:\\myEclipse\\plugins\\com.genuitec.eclipse.easie.tomcat7.myeclipse_11.5.0.me201310302042\\tomcat/common/endorsed"
+JDK_HOME=D\:\\JDK\\eclipse-jee-helios-SR2-win32\\eclipse
+LIBRARY_PATH="D\:\\JDK\\eclipse-jee-helios-SR2-win32\\eclipse\\bin;D\:\\myEclipse\\plugins\\com.genuitec.eclipse.easie.tomcat7.myeclipse_11.5.0.me201310302042\\tomcat\\bin"
+SERVER_ENABLEMENT=false
+eclipse.preferences.version=1

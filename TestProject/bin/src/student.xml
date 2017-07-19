@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE students SYSTEM "student.dtd">
+
+<students>
+  <student>
+    <age>13</age>
+    <sex>rcp</sex>
+    <sex>rcp</sex>
+    <rcp>123</rcp>
+    <rcp>123</rcp>
+    <sex>rcp</sex>
+    <sex>rcp</sex>
+    <sex>rcp</sex>
+  </student>
+  <student>
+    <name>121212121</name>
+    <rcp>123</rcp>
+    <age>12</age>
+  </student>
+  <student>
+    <name>123232</name>
+    <age>23</age>
+  </student>
+</students>

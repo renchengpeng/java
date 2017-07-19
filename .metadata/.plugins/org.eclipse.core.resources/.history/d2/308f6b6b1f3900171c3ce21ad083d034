@@ -1,0 +1,25 @@
+package cn.zrgk.com;
+
+import cn.zrgk.demo1.Dog;
+
+public class Mp3 {
+	/**
+	 * @param args
+	 */
+	
+	
+	public int num;
+	public void get(){
+		System.out.println(this.num);
+	}
+	public static void main(String[] args) {
+		get();
+		cn.zrgk.demo1.Mp3 dog = new cn.zrgk.demo1.Mp3();
+		
+		System.out.println("名字：" + dog.getName());
+		System.out.println("年龄：" + dog.getAge());
+		System.out.println("体重：" + dog.getWeight());
+		System.out.println("品牌：" + dog.getBrand());
+	}
+
+}

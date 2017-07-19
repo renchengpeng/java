@@ -1,0 +1,31 @@
+package cn.zrgk.com;
+
+import java.util.ArrayList;
+
+import cn.zrgk.demo1.Dog;
+
+public class Mp3 {
+	/**
+	 * @param args
+	 */
+ 
+	public int num;
+	public void get(){
+		ArrayList list = new ArrayList();
+		list.add(2);
+		list.add(3);
+		list.add(4);
+		list.add(5);
+		list.add("123");
+		list.add("asd");
+		
+		for (int i = 0; i < list.size(); i++) {
+			System.out.println(list.get(i));
+		}
+	}
+	public static void main(String[] args) {
+		Mp3 mp3 = new Mp3();
+		mp3.get();
+	}
+
+}

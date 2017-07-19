@@ -1,0 +1,8 @@
+ENDORSED_DIRS="D\:\\TomCat\\apache-tomcat-7.0.56\\apache-tomcat-7.0.56/common/endorsed"
+JDK_HOME=D\:\\JDK\\eclipse-jee-helios-SR2-win32\\eclipse
+LIBRARY_PATH="D\:\\JDK\\eclipse-jee-helios-SR2-win32\\eclipse\\bin;D\:\\TomCat\\apache-tomcat-7.0.56\\apache-tomcat-7.0.56\\bin"
+SERVER_ENABLEMENT=true
+TOMCAT_BASE=D\:\\TomCat\\apache-tomcat-7.0.56\\apache-tomcat-7.0.56
+TOMCAT_HOME=D\:\\TomCat\\apache-tomcat-7.0.56\\apache-tomcat-7.0.56
+TOMCAT_TEMP=D\:\\TomCat\\apache-tomcat-7.0.56\\apache-tomcat-7.0.56\\temp
+eclipse.preferences.version=1

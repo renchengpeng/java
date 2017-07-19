@@ -1,0 +1,22 @@
+package com.zrgk.test;
+
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+
+import org.apache.tools.zip.ZipOutputStream;
+
+public class TestZip {
+	
+	static ZipOutputStream zops = null;
+	static{
+		try {
+			zops = new ZipOutputStream(new FileOutputStream("F:\\资料\\zipTest.zip"));
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+	}
+	private void mian() {
+		// TODO Auto-generated method stub
+
+	}
+}
